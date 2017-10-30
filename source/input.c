@@ -2690,7 +2690,7 @@ printf("perturb_sampling_stepsize = %f \n",ppr->perturb_sampling_stepsize);
 
   class_read_double("l_logstep",ppr->l_logstep);
   class_read_int("l_linstep",ppr->l_linstep);
-printf(" lshit = %f %d \n",ppr->l_logstep,ppr->l_linstep);
+printf(" l precision = %f %d \n",ppr->l_logstep,ppr->l_linstep);
   class_read_double("hyper_x_min",ppr->hyper_x_min);
   class_read_double("hyper_sampling_flat",ppr->hyper_sampling_flat);
   class_read_double("hyper_sampling_curved_low_nu",ppr->hyper_sampling_curved_low_nu);
