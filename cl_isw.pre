@@ -1,0 +1,5 @@
+
+#needed for good accuracy on low l!
+perturb_sampling_stepsize = 0.05
+l_logstep=1.025
+l_linstep=1

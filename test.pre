@@ -1,0 +1,9 @@
+
+
+q_linstep = .05
+start_small_k_at_tau_c_over_tau_h = 1e-4
+start_large_k_at_tau_h_over_tau_k = 1e-4
+perturb_sampling_stepsize = 0.05
+l_logstep = 1.045
+l_linstep = 5. 
+selection_tophat_edge = 0.0001
